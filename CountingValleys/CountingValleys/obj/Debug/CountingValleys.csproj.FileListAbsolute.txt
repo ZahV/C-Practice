@@ -1,0 +1,7 @@
+C:\Users\Zah\source\repos\CountingValleys\CountingValleys\bin\Debug\CountingValleys.exe.config
+C:\Users\Zah\source\repos\CountingValleys\CountingValleys\bin\Debug\CountingValleys.exe
+C:\Users\Zah\source\repos\CountingValleys\CountingValleys\bin\Debug\CountingValleys.pdb
+C:\Users\Zah\source\repos\CountingValleys\CountingValleys\obj\Debug\CountingValleys.csprojAssemblyReference.cache
+C:\Users\Zah\source\repos\CountingValleys\CountingValleys\obj\Debug\CountingValleys.csproj.CoreCompileInputs.cache
+C:\Users\Zah\source\repos\CountingValleys\CountingValleys\obj\Debug\CountingValleys.exe
+C:\Users\Zah\source\repos\CountingValleys\CountingValleys\obj\Debug\CountingValleys.pdb
