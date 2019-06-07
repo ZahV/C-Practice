@@ -1,0 +1,7 @@
+C:\Users\Zah\source\repos\InterfacesExcersize\InterfacesExcersize\bin\Debug\InterfacesExcersize.exe.config
+C:\Users\Zah\source\repos\InterfacesExcersize\InterfacesExcersize\bin\Debug\InterfacesExcersize.exe
+C:\Users\Zah\source\repos\InterfacesExcersize\InterfacesExcersize\bin\Debug\InterfacesExcersize.pdb
+C:\Users\Zah\source\repos\InterfacesExcersize\InterfacesExcersize\obj\Debug\InterfacesExcersize.csprojAssemblyReference.cache
+C:\Users\Zah\source\repos\InterfacesExcersize\InterfacesExcersize\obj\Debug\InterfacesExcersize.csproj.CoreCompileInputs.cache
+C:\Users\Zah\source\repos\InterfacesExcersize\InterfacesExcersize\obj\Debug\InterfacesExcersize.exe
+C:\Users\Zah\source\repos\InterfacesExcersize\InterfacesExcersize\obj\Debug\InterfacesExcersize.pdb
