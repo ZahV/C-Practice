@@ -1,0 +1,11 @@
+C:\Users\Zah\source\repos\CompositionExcersize\CompositionExcersize\bin\Debug\netcoreapp2.0\CompositionExcersize.deps.json
+C:\Users\Zah\source\repos\CompositionExcersize\CompositionExcersize\bin\Debug\netcoreapp2.0\CompositionExcersize.runtimeconfig.json
+C:\Users\Zah\source\repos\CompositionExcersize\CompositionExcersize\bin\Debug\netcoreapp2.0\CompositionExcersize.runtimeconfig.dev.json
+C:\Users\Zah\source\repos\CompositionExcersize\CompositionExcersize\bin\Debug\netcoreapp2.0\CompositionExcersize.dll
+C:\Users\Zah\source\repos\CompositionExcersize\CompositionExcersize\bin\Debug\netcoreapp2.0\CompositionExcersize.pdb
+C:\Users\Zah\source\repos\CompositionExcersize\CompositionExcersize\obj\Debug\netcoreapp2.0\CompositionExcersize.csprojResolveAssemblyReference.cache
+C:\Users\Zah\source\repos\CompositionExcersize\CompositionExcersize\obj\Debug\netcoreapp2.0\CompositionExcersize.csproj.CoreCompileInputs.cache
+C:\Users\Zah\source\repos\CompositionExcersize\CompositionExcersize\obj\Debug\netcoreapp2.0\CompositionExcersize.AssemblyInfoInputs.cache
+C:\Users\Zah\source\repos\CompositionExcersize\CompositionExcersize\obj\Debug\netcoreapp2.0\CompositionExcersize.AssemblyInfo.cs
+C:\Users\Zah\source\repos\CompositionExcersize\CompositionExcersize\obj\Debug\netcoreapp2.0\CompositionExcersize.dll
+C:\Users\Zah\source\repos\CompositionExcersize\CompositionExcersize\obj\Debug\netcoreapp2.0\CompositionExcersize.pdb
