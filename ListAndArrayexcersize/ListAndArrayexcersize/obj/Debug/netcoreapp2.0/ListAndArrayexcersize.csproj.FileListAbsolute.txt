@@ -1,0 +1,11 @@
+C:\Users\Zah\source\repos\ListAndArrayexcersize\ListAndArrayexcersize\bin\Debug\netcoreapp2.0\ListAndArrayexcersize.deps.json
+C:\Users\Zah\source\repos\ListAndArrayexcersize\ListAndArrayexcersize\bin\Debug\netcoreapp2.0\ListAndArrayexcersize.runtimeconfig.json
+C:\Users\Zah\source\repos\ListAndArrayexcersize\ListAndArrayexcersize\bin\Debug\netcoreapp2.0\ListAndArrayexcersize.runtimeconfig.dev.json
+C:\Users\Zah\source\repos\ListAndArrayexcersize\ListAndArrayexcersize\bin\Debug\netcoreapp2.0\ListAndArrayexcersize.dll
+C:\Users\Zah\source\repos\ListAndArrayexcersize\ListAndArrayexcersize\bin\Debug\netcoreapp2.0\ListAndArrayexcersize.pdb
+C:\Users\Zah\source\repos\ListAndArrayexcersize\ListAndArrayexcersize\obj\Debug\netcoreapp2.0\ListAndArrayexcersize.csprojResolveAssemblyReference.cache
+C:\Users\Zah\source\repos\ListAndArrayexcersize\ListAndArrayexcersize\obj\Debug\netcoreapp2.0\ListAndArrayexcersize.csproj.CoreCompileInputs.cache
+C:\Users\Zah\source\repos\ListAndArrayexcersize\ListAndArrayexcersize\obj\Debug\netcoreapp2.0\ListAndArrayexcersize.AssemblyInfoInputs.cache
+C:\Users\Zah\source\repos\ListAndArrayexcersize\ListAndArrayexcersize\obj\Debug\netcoreapp2.0\ListAndArrayexcersize.AssemblyInfo.cs
+C:\Users\Zah\source\repos\ListAndArrayexcersize\ListAndArrayexcersize\obj\Debug\netcoreapp2.0\ListAndArrayexcersize.dll
+C:\Users\Zah\source\repos\ListAndArrayexcersize\ListAndArrayexcersize\obj\Debug\netcoreapp2.0\ListAndArrayexcersize.pdb
