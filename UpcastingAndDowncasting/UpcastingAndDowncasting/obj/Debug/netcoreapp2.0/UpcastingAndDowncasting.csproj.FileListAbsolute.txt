@@ -1,0 +1,11 @@
+C:\Users\Zah\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\bin\Debug\netcoreapp2.0\UpcastingAndDowncasting.deps.json
+C:\Users\Zah\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\bin\Debug\netcoreapp2.0\UpcastingAndDowncasting.runtimeconfig.json
+C:\Users\Zah\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\bin\Debug\netcoreapp2.0\UpcastingAndDowncasting.runtimeconfig.dev.json
+C:\Users\Zah\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\bin\Debug\netcoreapp2.0\UpcastingAndDowncasting.dll
+C:\Users\Zah\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\bin\Debug\netcoreapp2.0\UpcastingAndDowncasting.pdb
+C:\Users\Zah\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\netcoreapp2.0\UpcastingAndDowncasting.csprojResolveAssemblyReference.cache
+C:\Users\Zah\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\netcoreapp2.0\UpcastingAndDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\Zah\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\netcoreapp2.0\UpcastingAndDowncasting.AssemblyInfoInputs.cache
+C:\Users\Zah\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\netcoreapp2.0\UpcastingAndDowncasting.AssemblyInfo.cs
+C:\Users\Zah\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\netcoreapp2.0\UpcastingAndDowncasting.dll
+C:\Users\Zah\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\netcoreapp2.0\UpcastingAndDowncasting.pdb
