@@ -1,0 +1,7 @@
+C:\Users\Zah\source\repos\NewYearChaos\NewYearChaos\bin\Debug\NewYearChaos.exe.config
+C:\Users\Zah\source\repos\NewYearChaos\NewYearChaos\bin\Debug\NewYearChaos.exe
+C:\Users\Zah\source\repos\NewYearChaos\NewYearChaos\bin\Debug\NewYearChaos.pdb
+C:\Users\Zah\source\repos\NewYearChaos\NewYearChaos\obj\Debug\NewYearChaos.csprojAssemblyReference.cache
+C:\Users\Zah\source\repos\NewYearChaos\NewYearChaos\obj\Debug\NewYearChaos.csproj.CoreCompileInputs.cache
+C:\Users\Zah\source\repos\NewYearChaos\NewYearChaos\obj\Debug\NewYearChaos.exe
+C:\Users\Zah\source\repos\NewYearChaos\NewYearChaos\obj\Debug\NewYearChaos.pdb
