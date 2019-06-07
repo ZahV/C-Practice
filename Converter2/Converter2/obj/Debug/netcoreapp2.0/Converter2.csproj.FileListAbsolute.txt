@@ -1,0 +1,11 @@
+C:\Users\Zah\source\repos\Converter2\Converter2\bin\Debug\netcoreapp2.0\Converter2.deps.json
+C:\Users\Zah\source\repos\Converter2\Converter2\bin\Debug\netcoreapp2.0\Converter2.runtimeconfig.json
+C:\Users\Zah\source\repos\Converter2\Converter2\bin\Debug\netcoreapp2.0\Converter2.runtimeconfig.dev.json
+C:\Users\Zah\source\repos\Converter2\Converter2\bin\Debug\netcoreapp2.0\Converter2.dll
+C:\Users\Zah\source\repos\Converter2\Converter2\bin\Debug\netcoreapp2.0\Converter2.pdb
+C:\Users\Zah\source\repos\Converter2\Converter2\obj\Debug\netcoreapp2.0\Converter2.csprojResolveAssemblyReference.cache
+C:\Users\Zah\source\repos\Converter2\Converter2\obj\Debug\netcoreapp2.0\Converter2.csproj.CoreCompileInputs.cache
+C:\Users\Zah\source\repos\Converter2\Converter2\obj\Debug\netcoreapp2.0\Converter2.AssemblyInfoInputs.cache
+C:\Users\Zah\source\repos\Converter2\Converter2\obj\Debug\netcoreapp2.0\Converter2.AssemblyInfo.cs
+C:\Users\Zah\source\repos\Converter2\Converter2\obj\Debug\netcoreapp2.0\Converter2.dll
+C:\Users\Zah\source\repos\Converter2\Converter2\obj\Debug\netcoreapp2.0\Converter2.pdb
