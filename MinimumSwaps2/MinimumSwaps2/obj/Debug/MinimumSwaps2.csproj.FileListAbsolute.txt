@@ -1,0 +1,7 @@
+C:\Users\Zah\source\repos\MinimumSwaps2\MinimumSwaps2\bin\Debug\MinimumSwaps2.exe.config
+C:\Users\Zah\source\repos\MinimumSwaps2\MinimumSwaps2\bin\Debug\MinimumSwaps2.exe
+C:\Users\Zah\source\repos\MinimumSwaps2\MinimumSwaps2\bin\Debug\MinimumSwaps2.pdb
+C:\Users\Zah\source\repos\MinimumSwaps2\MinimumSwaps2\obj\Debug\MinimumSwaps2.csprojAssemblyReference.cache
+C:\Users\Zah\source\repos\MinimumSwaps2\MinimumSwaps2\obj\Debug\MinimumSwaps2.csproj.CoreCompileInputs.cache
+C:\Users\Zah\source\repos\MinimumSwaps2\MinimumSwaps2\obj\Debug\MinimumSwaps2.exe
+C:\Users\Zah\source\repos\MinimumSwaps2\MinimumSwaps2\obj\Debug\MinimumSwaps2.pdb
