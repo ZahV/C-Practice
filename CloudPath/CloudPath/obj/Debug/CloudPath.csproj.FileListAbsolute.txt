@@ -1,0 +1,7 @@
+C:\Users\Zah\source\repos\CloudPath\CloudPath\bin\Debug\CloudPath.exe.config
+C:\Users\Zah\source\repos\CloudPath\CloudPath\bin\Debug\CloudPath.exe
+C:\Users\Zah\source\repos\CloudPath\CloudPath\bin\Debug\CloudPath.pdb
+C:\Users\Zah\source\repos\CloudPath\CloudPath\obj\Debug\CloudPath.csprojAssemblyReference.cache
+C:\Users\Zah\source\repos\CloudPath\CloudPath\obj\Debug\CloudPath.csproj.CoreCompileInputs.cache
+C:\Users\Zah\source\repos\CloudPath\CloudPath\obj\Debug\CloudPath.exe
+C:\Users\Zah\source\repos\CloudPath\CloudPath\obj\Debug\CloudPath.pdb
