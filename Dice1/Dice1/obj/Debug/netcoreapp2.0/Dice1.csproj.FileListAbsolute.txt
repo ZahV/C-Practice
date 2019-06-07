@@ -1,0 +1,11 @@
+C:\Users\Zah\source\repos\Dice1\Dice1\obj\Debug\netcoreapp2.0\Dice1.csprojResolveAssemblyReference.cache
+C:\Users\Zah\source\repos\Dice1\Dice1\obj\Debug\netcoreapp2.0\Dice1.csproj.CoreCompileInputs.cache
+C:\Users\Zah\source\repos\Dice1\Dice1\obj\Debug\netcoreapp2.0\Dice1.AssemblyInfoInputs.cache
+C:\Users\Zah\source\repos\Dice1\Dice1\obj\Debug\netcoreapp2.0\Dice1.AssemblyInfo.cs
+C:\Users\Zah\source\repos\Dice1\Dice1\bin\Debug\netcoreapp2.0\Dice1.deps.json
+C:\Users\Zah\source\repos\Dice1\Dice1\bin\Debug\netcoreapp2.0\Dice1.runtimeconfig.json
+C:\Users\Zah\source\repos\Dice1\Dice1\bin\Debug\netcoreapp2.0\Dice1.runtimeconfig.dev.json
+C:\Users\Zah\source\repos\Dice1\Dice1\bin\Debug\netcoreapp2.0\Dice1.dll
+C:\Users\Zah\source\repos\Dice1\Dice1\bin\Debug\netcoreapp2.0\Dice1.pdb
+C:\Users\Zah\source\repos\Dice1\Dice1\obj\Debug\netcoreapp2.0\Dice1.dll
+C:\Users\Zah\source\repos\Dice1\Dice1\obj\Debug\netcoreapp2.0\Dice1.pdb
