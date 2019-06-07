@@ -1,0 +1,7 @@
+C:\Users\Zah\source\repos\Socks\Socks\bin\Debug\Socks.exe.config
+C:\Users\Zah\source\repos\Socks\Socks\bin\Debug\Socks.exe
+C:\Users\Zah\source\repos\Socks\Socks\bin\Debug\Socks.pdb
+C:\Users\Zah\source\repos\Socks\Socks\obj\Debug\Socks.csprojAssemblyReference.cache
+C:\Users\Zah\source\repos\Socks\Socks\obj\Debug\Socks.csproj.CoreCompileInputs.cache
+C:\Users\Zah\source\repos\Socks\Socks\obj\Debug\Socks.exe
+C:\Users\Zah\source\repos\Socks\Socks\obj\Debug\Socks.pdb
