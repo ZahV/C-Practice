@@ -1,0 +1,7 @@
+C:\Users\Zah\source\repos\PolymorphismExcersize\PolymorphismExcersize\bin\Debug\PolymorphismExcersize.exe.config
+C:\Users\Zah\source\repos\PolymorphismExcersize\PolymorphismExcersize\bin\Debug\PolymorphismExcersize.exe
+C:\Users\Zah\source\repos\PolymorphismExcersize\PolymorphismExcersize\bin\Debug\PolymorphismExcersize.pdb
+C:\Users\Zah\source\repos\PolymorphismExcersize\PolymorphismExcersize\obj\Debug\PolymorphismExcersize.csprojAssemblyReference.cache
+C:\Users\Zah\source\repos\PolymorphismExcersize\PolymorphismExcersize\obj\Debug\PolymorphismExcersize.csproj.CoreCompileInputs.cache
+C:\Users\Zah\source\repos\PolymorphismExcersize\PolymorphismExcersize\obj\Debug\PolymorphismExcersize.exe
+C:\Users\Zah\source\repos\PolymorphismExcersize\PolymorphismExcersize\obj\Debug\PolymorphismExcersize.pdb
