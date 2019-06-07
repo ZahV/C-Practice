@@ -1,0 +1,11 @@
+C:\Users\Zah\source\repos\InheritanceExcersize\InheritanceExcersize\bin\Debug\netcoreapp2.0\InheritanceExcersize.deps.json
+C:\Users\Zah\source\repos\InheritanceExcersize\InheritanceExcersize\bin\Debug\netcoreapp2.0\InheritanceExcersize.runtimeconfig.json
+C:\Users\Zah\source\repos\InheritanceExcersize\InheritanceExcersize\bin\Debug\netcoreapp2.0\InheritanceExcersize.runtimeconfig.dev.json
+C:\Users\Zah\source\repos\InheritanceExcersize\InheritanceExcersize\bin\Debug\netcoreapp2.0\InheritanceExcersize.dll
+C:\Users\Zah\source\repos\InheritanceExcersize\InheritanceExcersize\bin\Debug\netcoreapp2.0\InheritanceExcersize.pdb
+C:\Users\Zah\source\repos\InheritanceExcersize\InheritanceExcersize\obj\Debug\netcoreapp2.0\InheritanceExcersize.csprojResolveAssemblyReference.cache
+C:\Users\Zah\source\repos\InheritanceExcersize\InheritanceExcersize\obj\Debug\netcoreapp2.0\InheritanceExcersize.csproj.CoreCompileInputs.cache
+C:\Users\Zah\source\repos\InheritanceExcersize\InheritanceExcersize\obj\Debug\netcoreapp2.0\InheritanceExcersize.AssemblyInfoInputs.cache
+C:\Users\Zah\source\repos\InheritanceExcersize\InheritanceExcersize\obj\Debug\netcoreapp2.0\InheritanceExcersize.AssemblyInfo.cs
+C:\Users\Zah\source\repos\InheritanceExcersize\InheritanceExcersize\obj\Debug\netcoreapp2.0\InheritanceExcersize.dll
+C:\Users\Zah\source\repos\InheritanceExcersize\InheritanceExcersize\obj\Debug\netcoreapp2.0\InheritanceExcersize.pdb
