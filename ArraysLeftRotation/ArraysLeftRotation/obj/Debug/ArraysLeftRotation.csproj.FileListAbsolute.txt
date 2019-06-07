@@ -1,0 +1,7 @@
+C:\Users\Zah\source\repos\ArraysLeftRotation\ArraysLeftRotation\bin\Debug\ArraysLeftRotation.exe.config
+C:\Users\Zah\source\repos\ArraysLeftRotation\ArraysLeftRotation\bin\Debug\ArraysLeftRotation.exe
+C:\Users\Zah\source\repos\ArraysLeftRotation\ArraysLeftRotation\bin\Debug\ArraysLeftRotation.pdb
+C:\Users\Zah\source\repos\ArraysLeftRotation\ArraysLeftRotation\obj\Debug\ArraysLeftRotation.csprojAssemblyReference.cache
+C:\Users\Zah\source\repos\ArraysLeftRotation\ArraysLeftRotation\obj\Debug\ArraysLeftRotation.csproj.CoreCompileInputs.cache
+C:\Users\Zah\source\repos\ArraysLeftRotation\ArraysLeftRotation\obj\Debug\ArraysLeftRotation.exe
+C:\Users\Zah\source\repos\ArraysLeftRotation\ArraysLeftRotation\obj\Debug\ArraysLeftRotation.pdb
