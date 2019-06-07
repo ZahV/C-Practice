@@ -1,0 +1,11 @@
+C:\Users\Zah\source\repos\DataStackWithArray\DataStackWithArray\obj\Debug\netcoreapp2.0\DataStackWithArray.csprojResolveAssemblyReference.cache
+C:\Users\Zah\source\repos\DataStackWithArray\DataStackWithArray\obj\Debug\netcoreapp2.0\DataStackWithArray.csproj.CoreCompileInputs.cache
+C:\Users\Zah\source\repos\DataStackWithArray\DataStackWithArray\obj\Debug\netcoreapp2.0\DataStackWithArray.AssemblyInfoInputs.cache
+C:\Users\Zah\source\repos\DataStackWithArray\DataStackWithArray\obj\Debug\netcoreapp2.0\DataStackWithArray.AssemblyInfo.cs
+C:\Users\Zah\source\repos\DataStackWithArray\DataStackWithArray\bin\Debug\netcoreapp2.0\DataStackWithArray.deps.json
+C:\Users\Zah\source\repos\DataStackWithArray\DataStackWithArray\bin\Debug\netcoreapp2.0\DataStackWithArray.runtimeconfig.json
+C:\Users\Zah\source\repos\DataStackWithArray\DataStackWithArray\bin\Debug\netcoreapp2.0\DataStackWithArray.runtimeconfig.dev.json
+C:\Users\Zah\source\repos\DataStackWithArray\DataStackWithArray\bin\Debug\netcoreapp2.0\DataStackWithArray.dll
+C:\Users\Zah\source\repos\DataStackWithArray\DataStackWithArray\bin\Debug\netcoreapp2.0\DataStackWithArray.pdb
+C:\Users\Zah\source\repos\DataStackWithArray\DataStackWithArray\obj\Debug\netcoreapp2.0\DataStackWithArray.dll
+C:\Users\Zah\source\repos\DataStackWithArray\DataStackWithArray\obj\Debug\netcoreapp2.0\DataStackWithArray.pdb
